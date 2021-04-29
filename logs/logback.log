@@ -1,0 +1,29 @@
+[2021-04-29 14:45:57:821][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 16 on PC-RNAKR-MH01 with PID 23956 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 14:45:57:829][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 14:45:59:2748][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 2.51 seconds (JVM running for 2.992)
+[2021-04-29 15:03:43:805][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 16 on PC-RNAKR-MH01 with PID 7056 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 15:03:43:811][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 15:03:45:2762][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 2.524 seconds (JVM running for 3.001)
+[2021-04-29 15:52:43:835][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 16 on PC-RNAKR-MH01 with PID 19056 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 15:52:43:840][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 15:52:45:2746][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 2.506 seconds (JVM running for 3.002)
+[2021-04-29 16:08:37:905][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 16 on PC-RNAKR-MH01 with PID 19140 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 16:08:37:909][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 16:08:39:2891][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 2.618 seconds (JVM running for 3.233)
+[2021-04-29 16:10:35:118814][http-nio-8080-exec-8] INFO  c.m.s.controller.APIController - Hello!!!!!!!! null
+[2021-04-29 16:10:59:143302][http-nio-8080-exec-9] INFO  c.m.s.controller.APIController - Hello!!!!!!!! null
+[2021-04-29 16:11:19:901][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 16 on PC-RNAKR-MH01 with PID 13292 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 16:11:19:907][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 16:11:21:2983][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 2.725 seconds (JVM running for 3.233)
+[2021-04-29 16:23:44:925][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 16 on PC-RNAKR-MH01 with PID 8276 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 16:23:44:929][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 16:23:47:3049][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 2.8 seconds (JVM running for 3.35)
+[2021-04-29 16:27:27:1123][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 11.0.10 on PC-RNAKR-MH01 with PID 21816 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 16:27:27:1127][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 16:27:30:3905][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 3.602 seconds (JVM running for 4.301)
+[2021-04-29 16:31:29:1020][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 11.0.10 on PC-RNAKR-MH01 with PID 23112 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 16:31:29:1024][main] INFO  c.m.s.SpringDevelopApplication - No active profile set, falling back to default profiles: default
+[2021-04-29 16:31:32:3546][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 3.295 seconds (JVM running for 3.906)
+[2021-04-29 16:36:34:1458][main] INFO  c.m.s.SpringDevelopApplication - Starting SpringDevelopApplication using Java 11.0.10 on PC-RNAKR-MH01 with PID 7368 (C:\Users\mihee.kim\study\spring-develop\target\classes started by mihee.kim in C:\Users\mihee.kim\study\spring-develop)
+[2021-04-29 16:36:34:1465][main] INFO  c.m.s.SpringDevelopApplication - The following profiles are active: dev
+[2021-04-29 16:36:37:4955][main] INFO  c.m.s.SpringDevelopApplication - Started SpringDevelopApplication in 4.592 seconds (JVM running for 5.499)

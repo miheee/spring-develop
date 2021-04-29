@@ -1,0 +1,23 @@
+# profiles 값 할당 전
+server:
+  port: 18080
+---
+# profiles value 할당 (방법1)
+# java -jar 파일명.jar --spring.profiles.active=profiles값 (택1)
+# java -Dspring.profiles.active=profiles값 -jar 파일명.jar (택2)
+spring:
+  profiles: local
+server:
+  port: 8080
+---
+# profiles value 할당 (방법2)
+# Edit Configurations > Run/Debug Configurations > Active Profiles 값 할당s
+spring:
+  profiles: dev
+server:
+  port: 8081
+---
+spring:
+  profiles: real
+server:
+  port: 80
